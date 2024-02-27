@@ -1,0 +1,95 @@
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\selenium-manager\linux\selenium-manager
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\selenium-manager\macos\selenium-manager
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\HotmailReporting.exe.config
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\HotmailReporting.exe
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\HotmailReporting.pdb
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\EPPlus.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\EPPlus.Interfaces.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\FontAwesome.Sharp.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\INIFileParser.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\Newtonsoft.Json.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Buffers.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Drawing.Common.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Memory.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Numerics.Vectors.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Security.Cryptography.Pkcs.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\WebDriver.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\WindowsInput.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\EPPlus.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\INIFileParser.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\Newtonsoft.Json.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Buffers.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Drawing.Common.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Memory.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Numerics.Vectors.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Security.Cryptography.Pkcs.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\WebDriver.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\bin\Release\WindowsInput.xml
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\Interop.Shell32.dll
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.ResolveComReference.cache
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.getSureFromProcess.resources
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.Properties.Resources.resources
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.report.resources
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.GenerateResource.cache
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.CoreCompileInputs.cache
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.CopyComplete
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.exe
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.pdb
+C:\Users\dev_team\source\repos\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.Home.resources
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\selenium-manager\linux\selenium-manager
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\selenium-manager\macos\selenium-manager
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\HotmailReporting.exe.config
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\HotmailReporting.exe
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\HotmailReporting.pdb
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\EPPlus.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\EPPlus.Interfaces.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\FontAwesome.Sharp.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\INIFileParser.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\Newtonsoft.Json.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Buffers.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Drawing.Common.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Memory.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Numerics.Vectors.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Security.Cryptography.Pkcs.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\WebDriver.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\WindowsInput.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\EPPlus.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\INIFileParser.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\Newtonsoft.Json.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Buffers.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Drawing.Common.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Memory.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Numerics.Vectors.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Security.Cryptography.Pkcs.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\System.Text.Encoding.CodePages.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\WebDriver.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\bin\Release\WindowsInput.xml
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.AssemblyReference.cache
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\Interop.Shell32.dll
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.ResolveComReference.cache
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.getSureFromProcess.resources
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.Home.resources
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.Properties.Resources.resources
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.report.resources
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.GenerateResource.cache
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.csproj.CoreCompileInputs.cache
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailR.B69E9DAC.Up2Date
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.exe
+C:\Users\babach\Downloads\Telegram Desktop\HotmailReporting\HotmailReporting\obj\Release\HotmailReporting.pdb
