@@ -1,13 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 using System.Windows.Forms;
 namespace HotmailReporting
@@ -118,11 +113,11 @@ namespace HotmailReporting
             if (errorsRadio.Checked)
             {
                 errorsRadio.ForeColor = Color.FromArgb(249, 0, 63);
-           
+
                 Thread th = new Thread(() =>
                 {
 
-                  
+
                     foreach (Label lbl in GetAllLabelsLocal)
                     {
                         if (lbl.ForeColor == Color.FromArgb(226, 44, 48))
@@ -132,10 +127,10 @@ namespace HotmailReporting
 
                                 lbl.Visible = true;
                             }));
-                           
+
                         }
                         else
-                        {  
+                        {
 
                             Invoke(new Action(() =>
                             {
@@ -148,7 +143,7 @@ namespace HotmailReporting
 
                 th.Start();
 
-         
+
             }
             else
             {
@@ -189,4 +184,4 @@ namespace HotmailReporting
 
         }
     }
-    }
+}

@@ -34,8 +34,7 @@ namespace HotmailReporting
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
             this.sideBar = new System.Windows.Forms.Panel();
-            this.inboxing = new HotmailReporting.BabachRadioButton();
-            this.archiving = new HotmailReporting.BabachRadioButton();
+            this.label2 = new System.Windows.Forms.Label();
             this.iconButton4 = new FontAwesome.Sharp.IconButton();
             this.label7 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
@@ -55,14 +54,27 @@ namespace HotmailReporting
             this.filename = new System.Windows.Forms.Label();
             this.iconButton5 = new FontAwesome.Sharp.IconButton();
             this.label1 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.round = new System.Windows.Forms.TextBox();
+            this.both = new HotmailReporting.BabachRadioButton();
+            this.inboxing = new HotmailReporting.BabachRadioButton();
+            this.archiving = new HotmailReporting.BabachRadioButton();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.batch = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             this.sideBar.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // sideBar
             // 
             this.sideBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.sideBar.Controls.Add(this.both);
+            this.sideBar.Controls.Add(this.label2);
             this.sideBar.Controls.Add(this.inboxing);
             this.sideBar.Controls.Add(this.archiving);
             this.sideBar.Controls.Add(this.iconButton4);
@@ -79,40 +91,17 @@ namespace HotmailReporting
             this.sideBar.TabIndex = 7;
             this.sideBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.sideBar_MouseDown);
             // 
-            // inboxing
+            // label2
             // 
-            this.inboxing.AutoSize = true;
-            this.inboxing.CheckedColor = System.Drawing.Color.White;
-            this.inboxing.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold);
-            this.inboxing.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(236)))), ((int)(((byte)(239)))));
-            this.inboxing.Location = new System.Drawing.Point(9, 177);
-            this.inboxing.MinimumSize = new System.Drawing.Size(0, 21);
-            this.inboxing.Name = "inboxing";
-            this.inboxing.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
-            this.inboxing.Size = new System.Drawing.Size(151, 22);
-            this.inboxing.TabIndex = 26;
-            this.inboxing.TabStop = true;
-            this.inboxing.Text = "Junk Process";
-            this.inboxing.UnCheckedColor = System.Drawing.Color.White;
-            this.inboxing.UseVisualStyleBackColor = true;
-            this.inboxing.CheckedChanged += new System.EventHandler(this.inboxing_CheckedChanged);
-            // 
-            // archiving
-            // 
-            this.archiving.AutoSize = true;
-            this.archiving.CheckedColor = System.Drawing.Color.White;
-            this.archiving.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold);
-            this.archiving.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(236)))), ((int)(((byte)(239)))));
-            this.archiving.Location = new System.Drawing.Point(5, 258);
-            this.archiving.MinimumSize = new System.Drawing.Size(0, 21);
-            this.archiving.Name = "archiving";
-            this.archiving.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
-            this.archiving.Size = new System.Drawing.Size(162, 22);
-            this.archiving.TabIndex = 25;
-            this.archiving.TabStop = true;
-            this.archiving.Text = "Inbox Process";
-            this.archiving.UnCheckedColor = System.Drawing.Color.White;
-            this.archiving.UseVisualStyleBackColor = true;
+            this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label2.Font = new System.Drawing.Font("Verdana", 7F);
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(236)))), ((int)(((byte)(239)))));
+            this.label2.Location = new System.Drawing.Point(28, 378);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(304, 28);
+            this.label2.TabIndex = 27;
+            this.label2.Text = "Starting with the junk  process and directelly switch to the Inbox process";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // iconButton4
             // 
@@ -388,12 +377,134 @@ namespace HotmailReporting
             this.label1.TabIndex = 21;
             this.label1.Text = "Notice that your Excel file should be as  this structure";
             // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.panel2.Controls.Add(this.round);
+            this.panel2.Location = new System.Drawing.Point(346, 239);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(255, 17);
+            this.panel2.TabIndex = 29;
+            // 
+            // round
+            // 
+            this.round.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.round.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.round.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.round.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.round.Location = new System.Drawing.Point(0, 0);
+            this.round.Name = "round";
+            this.round.Size = new System.Drawing.Size(255, 15);
+            this.round.TabIndex = 0;
+            this.round.Text = "1";
+            this.round.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // both
+            // 
+            this.both.AutoSize = true;
+            this.both.CheckedColor = System.Drawing.Color.White;
+            this.both.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold);
+            this.both.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(236)))), ((int)(((byte)(239)))));
+            this.both.Location = new System.Drawing.Point(8, 347);
+            this.both.MinimumSize = new System.Drawing.Size(0, 21);
+            this.both.Name = "both";
+            this.both.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.both.Size = new System.Drawing.Size(77, 22);
+            this.both.TabIndex = 28;
+            this.both.TabStop = true;
+            this.both.Text = "Both";
+            this.both.UnCheckedColor = System.Drawing.Color.White;
+            this.both.UseVisualStyleBackColor = true;
+            // 
+            // inboxing
+            // 
+            this.inboxing.AutoSize = true;
+            this.inboxing.CheckedColor = System.Drawing.Color.White;
+            this.inboxing.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold);
+            this.inboxing.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(236)))), ((int)(((byte)(239)))));
+            this.inboxing.Location = new System.Drawing.Point(9, 177);
+            this.inboxing.MinimumSize = new System.Drawing.Size(0, 21);
+            this.inboxing.Name = "inboxing";
+            this.inboxing.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.inboxing.Size = new System.Drawing.Size(151, 22);
+            this.inboxing.TabIndex = 26;
+            this.inboxing.TabStop = true;
+            this.inboxing.Text = "Junk Process";
+            this.inboxing.UnCheckedColor = System.Drawing.Color.White;
+            this.inboxing.UseVisualStyleBackColor = true;
+            this.inboxing.CheckedChanged += new System.EventHandler(this.inboxing_CheckedChanged);
+            // 
+            // archiving
+            // 
+            this.archiving.AutoSize = true;
+            this.archiving.CheckedColor = System.Drawing.Color.White;
+            this.archiving.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold);
+            this.archiving.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(236)))), ((int)(((byte)(239)))));
+            this.archiving.Location = new System.Drawing.Point(8, 258);
+            this.archiving.MinimumSize = new System.Drawing.Size(0, 21);
+            this.archiving.Name = "archiving";
+            this.archiving.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.archiving.Size = new System.Drawing.Size(162, 22);
+            this.archiving.TabIndex = 25;
+            this.archiving.TabStop = true;
+            this.archiving.Text = "Inbox Process";
+            this.archiving.UnCheckedColor = System.Drawing.Color.White;
+            this.archiving.UseVisualStyleBackColor = true;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.panel3.Controls.Add(this.batch);
+            this.panel3.Location = new System.Drawing.Point(721, 239);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(255, 17);
+            this.panel3.TabIndex = 30;
+            // 
+            // batch
+            // 
+            this.batch.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.batch.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.batch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.batch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.batch.Location = new System.Drawing.Point(0, 0);
+            this.batch.Name = "batch";
+            this.batch.Size = new System.Drawing.Size(255, 15);
+            this.batch.TabIndex = 0;
+            this.batch.Text = "5";
+            this.batch.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // label3
+            // 
+            this.label3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label3.Font = new System.Drawing.Font("Verdana", 8.75F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.label3.Location = new System.Drawing.Point(346, 220);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(152, 17);
+            this.label3.TabIndex = 23;
+            this.label3.Text = "Rounds :";
+            // 
+            // label8
+            // 
+            this.label8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label8.Font = new System.Drawing.Font("Verdana", 8.75F, System.Drawing.FontStyle.Bold);
+            this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(76)))), ((int)(((byte)(119)))));
+            this.label8.Location = new System.Drawing.Point(718, 219);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(152, 17);
+            this.label8.TabIndex = 31;
+            this.label8.Text = "Batch :";
+            // 
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(988, 535);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.iconButton3);
             this.Controls.Add(this.iconButton2);
             this.Controls.Add(this.button2);
@@ -405,13 +516,17 @@ namespace HotmailReporting
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Home";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "}";
+            this.Text = "Home";
             this.Load += new System.EventHandler(this.Home_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Home_MouseDown);
             this.sideBar.ResumeLayout(false);
             this.sideBar.PerformLayout();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -440,5 +555,13 @@ namespace HotmailReporting
         private FontAwesome.Sharp.IconButton iconButton5;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.TextBox round;
+        private BabachRadioButton both;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.TextBox batch;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label8;
     }
 }

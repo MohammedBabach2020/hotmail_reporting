@@ -1,7 +1,6 @@
 ﻿using IWshRuntimeLibrary;
 using System;
 using System.IO;
-using System.Net;
 using System.Net.Sockets;
 
 namespace HotmailReporting
@@ -27,7 +26,7 @@ namespace HotmailReporting
         }
 
 
-      public   static bool TestProxy(string proxyAddress, int proxyPort)
+        public static bool TestProxy(string proxyAddress, int proxyPort)
         {
             using (TcpClient tcpClient = new TcpClient())
             {
@@ -53,7 +52,7 @@ namespace HotmailReporting
                     return false;
                 }
             }
-        
+
+        }
     }
-}
 }

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|c:\\users\\babach\\downloads\\telegram desktop\\hotmailreporting\\hotmailreporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|c:\\users\\babach\\downloads\\telegram desktop\\hotmailreporting\\hotmailreporting\\getsurefromprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\getsurefromprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|c:\\users\\babach\\downloads\\telegram desktop\\hotmailreporting\\hotmailreporting\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\hotmailreporting\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\hotmailreporting\\processes\\junk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\processes\\junk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|c:\\users\\babach\\downloads\\telegram desktop\\hotmailreporting\\hotmailreporting\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\hotmailreporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\hotmailreporting\\processes\\inbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\processes\\inbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\hotmailreporting\\processes\\both.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\processes\\both.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\hotmailreporting\\processes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76A14FF-2B1F-4A50-8094-773CAEDAAB3A}|HotmailReporting\\HotmailReporting.csproj|solutionrelative:hotmailreporting\\processes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,36 +38,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Login.cs",
+              "RelativeDocumentMoniker": "HotmailReporting\\Processes\\Login.cs",
+              "ToolTip": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Login.cs",
+              "RelativeToolTip": "HotmailReporting\\Processes\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:49:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Both.cs",
+              "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Both.cs",
+              "RelativeDocumentMoniker": "HotmailReporting\\Processes\\Both.cs",
+              "ToolTip": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Both.cs",
+              "RelativeToolTip": "HotmailReporting\\Processes\\Both.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:41:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Junk.cs",
+              "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Junk.cs",
+              "RelativeDocumentMoniker": "HotmailReporting\\Processes\\Junk.cs",
+              "ToolTip": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Junk.cs",
+              "RelativeToolTip": "HotmailReporting\\Processes\\Junk.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAUwGAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:08:39.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inbox.cs",
+              "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Inbox.cs",
+              "RelativeDocumentMoniker": "HotmailReporting\\Processes\\Inbox.cs",
+              "ToolTip": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Processes\\Inbox.cs",
+              "RelativeToolTip": "HotmailReporting\\Processes\\Inbox.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:33:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Home.cs",
               "RelativeDocumentMoniker": "HotmailReporting\\Home.cs",
               "ToolTip": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Home.cs",
               "RelativeToolTip": "HotmailReporting\\Home.cs",
-              "ViewState": "AQIAALkAAAAAAAAAAAAMwNIAAAB8AAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwHsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T16:28:30.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "getSureFromProcess.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\getSureFromProcess.cs",
-              "RelativeDocumentMoniker": "HotmailReporting\\getSureFromProcess.cs",
-              "ToolTip": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\getSureFromProcess.cs [Design]",
-              "RelativeToolTip": "HotmailReporting\\getSureFromProcess.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:27:15.721Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "report.cs [Design]",
               "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\report.cs",
               "RelativeDocumentMoniker": "HotmailReporting\\report.cs",
@@ -67,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\babach\\Downloads\\Telegram Desktop\\HotmailReporting\\HotmailReporting\\Home.cs",
               "RelativeDocumentMoniker": "HotmailReporting\\Home.cs",
